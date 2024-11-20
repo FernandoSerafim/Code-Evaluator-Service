@@ -1,0 +1,39 @@
+# Compiled binary files
+*.exe
+*.o
+
+# font files
+*.c
+
+# Build directories
+bin/
+obj/
+
+# User-specific files
+.vs/
+*.user
+
+# Configuration files
+*.development.json
+
+# Visual Studio temporary files
+*.log
+*.tlog
+*.ide
+*.tmp
+*.bak
+*.swp
+*.temp
+*.pid
+*.gz
+*.zip
+
+# NuGet Packages
+*.nupkg
+
+# Other temporary files
+*.cache
+*.pdb
+
+#libraries
+*.dll

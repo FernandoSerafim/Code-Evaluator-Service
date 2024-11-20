@@ -1,0 +1,6 @@
+@AnalisadorDeCodigo.API_HostAddress = http://localhost:5138
+
+GET {{AnalisadorDeCodigo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
